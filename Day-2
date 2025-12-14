@@ -1,7 +1,11 @@
 Day-2 Learnings
 * Phising Attack
+Phising attack is a type of cyber attack where the attacker pretends to be the trusted entity and tricks you into revealing your sensitive information or click on malicious links.
+they usually steal your passwords, bank details, gain access to your accounts and access personal data.
+Types of phising attacks: E-mail, SMS, voice, Social media, Spear phising attack( Targetted to one person where they have all of their personal data)
 
 *HTTP(Hyper Text transfer protocol) VS HTTPS (Hyper Text transfer protocol Secure)
 HTTP- standard protocol to transmit data in web. It operates over port 80. Data being transmitted is not encrypted.
 Https- more secure version of HTTP. It operates over port 443. Data being transmitted is encrypted.
+It uses SSL(secure socket layer) or TSL( transport layer security) to encrypt the data.
 
