@@ -1,0 +1,28 @@
+* CIA Triad
+C stands for confidentiality. 
+This states that the information is secure and cannot be accessed or understood by the unauthorized members or users. 
+This is implemented in a system using the concept of encryption and decryption.
+I stands for Integrity
+It protects the reliability and correctness of the data.
+It prevents unauthorized alteration of data.
+A stands for Availability
+It ensures that the data are available when needed.
+
+* AAA
+in the tripple A concept, we will learn about 5 terms. they are:
+1. Identification- process of claiming or stating who you are.
+2. Authentication- process of proving that you are who you stated to be.
+3. Authorization- determining what you are allowed to do after authorization
+4. Auditing- process of recoring who did what and when
+5. Accounting- reviewing logs from auditing
+
+* VPN
+used to establish a secure and reliable connection in a unsecure network.
+It encrypts data and maintains confidentiality.
+
+* Firewalls 
+acts like a barrier and checks all the incomming data packets.
+two types of firewalls.
+1. Host Based firewall
+
+2. Network based firewall
