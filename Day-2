@@ -1,0 +1,7 @@
+Day-2 Learnings
+* Phising Attack
+
+*HTTP(Hyper Text transfer protocol) VS HTTPS (Hyper Text transfer protocol Secure)
+HTTP- standard protocol to transmit data in web. It operates over port 80. Data being transmitted is not encrypted.
+Https- more secure version of HTTP. It operates over port 443. Data being transmitted is encrypted.
+
